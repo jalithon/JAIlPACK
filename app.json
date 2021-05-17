@@ -92,7 +92,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس",
-      "value": "kimo ",
+      "value": "sad ",
       "required": false
     }
   },
