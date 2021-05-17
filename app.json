@@ -1,13 +1,13 @@
 {
-  "name": "ICSS - USERBOT",
-  "description": "Arabic Userbot for you by - @rruuurr ",
+  "name": "سورس ربه كامز",
+  "description": "Arabic Userbot for you by - @ماكو لتلح ",
   "logo": "https://telegra.ph/file/b204d0eade42f0acab4fe.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ANL0KE/ICSS-USERBOT/",
+  "repository": "https://github.com/Teamthon/SAD_USERBOT/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
