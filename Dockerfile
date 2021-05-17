@@ -1,7 +1,7 @@
-FROM ANL0KE/catuserbot:alpine
+FROM Teamthon/SAD_USERBOT:alpine
 
 #clonning repo 
-RUN git clone https://github.com/ANL0KE/catuserbot.git /root/userbot
+RUN git clone https://github.com/Teamthon/SAD_USERBOT.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
