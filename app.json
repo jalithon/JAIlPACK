@@ -45,32 +45,32 @@
       "required": false
     },
     "PMPERMIT_PIC": {
-      "description": "صوره ",
+      "description": "حط اي صوره من تلكراف",
       "value": "",
       "required": false
     },
     "MAX_FLOOD_IN_P_M_s": {
-      "description": "عدد الرسائل ",
+      "description": "عدد الرسائل - يفضل تعوفها ",
       "value": "5",
       "required": false
     },
     "PRIVATE_GROUP_ID": {
-      "description": "الكروب ",
+      "description": "الكروب - بكيفك",
       "value": "",
       "required": false
     },
     "CUSTOM_PMPERMIT_TEXT": {
-      "description": " الكليشه الحمايه ",
+      "description": " الكليشه الحمايه - يفضل تعوفها أو بكيفك ",
       "value": "",
       "required": false
     },
     "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "ايدي الكروب ",
+      "description": "ايدي الكروب - غير اجباري",
       "value": "",
       "required": false
     },
     "OWNER_ID": {
-      "description": "ايدي حسابك",
+      "description": "ايدي حسابك - غير اجباري",
       "value": "",
       "required": false
     },
@@ -91,7 +91,7 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "رمز السورس",
+      "description": "رمز السورس - لتلعب ",
       "value": "sad ",
       "required": false
     }
