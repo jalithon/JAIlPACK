@@ -1,7 +1,7 @@
-FROM Teamthon/SAD_USERBOT:alpine
+FROM JAIITHON-BR/JAIITHON:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Teamthon/SAD_USERBOT.git /root/userbot
+RUN git clone https://github.com/JAIITHON-BR/JAIITHON.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
