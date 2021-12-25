@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Teamthon/SAD_USERBOT/",
+  "repository": "https://github.com/JAIITHON-BR/JAIITHON/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -92,7 +92,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "sad ",
+      "value": "JAIITHON-BR ",
       "required": false
     }
   },
