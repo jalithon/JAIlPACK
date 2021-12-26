@@ -1,6 +1,6 @@
 {
   "name": "بوت جـليثون ",
-  "description": "Arabic Userbot for you by - @Sadthon ",
+  "description": "بـوت جليثون العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @JAIITHON ",
   "logo": "https://telegra.ph/file/e35e16ffec02530502e13.jpg",
   "keywords": [
     "plugin",
@@ -12,19 +12,19 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "ادخل اسمك هنا",
+      "description": "هـنا ضع اسم حسابك الخاص بالتلي",
       "value": ""
     },
     "APP_ID": {
-      "description": "اب ايدي",
+      "description": "هـنا ضع ايبي ايدي احصل عليه من  :  my.telegram.org",
       "value": ""
     },
     "API_HASH": {
-      "description": "ايبي هاش",
+      "description": "هـنا ضع ايبي هاش احصل عليه من my.telegram.org",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "كود التيرمكس",
+      "description": "هـنا ضع كـود تيرمكس",
       "value": ""
     },
     "ENV": {
@@ -32,7 +32,7 @@
       "value": "ANYTHING"
     },
     "TG_BOT_USERNAME": {
-      "description": "معرف البوت",
+      "description": "@ هنـا ضع معرف بوت التلي الخاص بك بدون",
       "value": ""
     },
     "TG_BOT_TOKEN": {
@@ -51,7 +51,7 @@
     },
     "MAX_FLOOD_IN_P_M_s": {
       "description": "عدد الرسائل - يفضل تعوفها ",
-      "value": "5",
+      "value": "7",
       "required": false
     },
     "PRIVATE_GROUP_ID": {
@@ -76,12 +76,12 @@
     },
 
     "HEROKU_API_KEY": {
-      "description": "هيروكو ابي كي من الاعدادات عن طريق الرابط https://dashboard.heroku.com/account",
+      "description": "ايبـي هيروكو احصل عليه من هذا الرابط مطلوبة ! https://dashboard.heroku.com/account",
       "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق ",
+      "description": "اسم التطبيق اول اسم خليته ",
       "value": "",
       "required": false
     },
@@ -91,7 +91,7 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "رمز السورس - لتلعب ",
+      "description": "لا تغيـرها ابدا ",
       "value": "JAIITHON-BR ",
       "required": false
     }
